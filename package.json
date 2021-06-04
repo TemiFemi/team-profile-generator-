@@ -1,5 +1,24 @@
 {
+  "scripts": {
+    "test": "jest --verbose __test__/*"
+  },
   "dependencies": {
-    "inquirer": "^8.1.0"
-  }
+    "inquirer": "^8.1.0",
+    "jest": "^27.0.3"
+  },
+  "name": "team-profile-generator-",
+  "description": "",
+  "version": "1.0.0",
+  "main": "profile.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TemiFemi/team-profile-generator-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TemiFemi/team-profile-generator-/issues"
+  },
+  "homepage": "https://github.com/TemiFemi/team-profile-generator-#readme"
 }
