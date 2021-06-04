@@ -146,7 +146,7 @@ function NewEmployee() {
             },
         ])
         .then(function (answers) {
-            switch (answers.selction) {
+            switch (answers.selection) {
                 case "Manager":
                     managerPrompt();
                     break;
