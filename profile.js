@@ -66,12 +66,12 @@ function engineerPrompt() {
             },
             {
                 type: "input",
-                name: "name",
+                name: "id",
                 message: "What is the employee's id?",
             },
             {
                 type: "input",
-                name: "name",
+                name: "email",
                 message: "What is the employee's email?",
             },
             {
